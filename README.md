@@ -15,7 +15,6 @@ This project showcases a soft and elegant layout to highlight premium products l
 
 🌐 [Click here to view the live site](https://jewels-website.netlify.app)
 
-> Hosted on **Netlify** – Free & Fast Static Hosting
 
 ---
 
@@ -41,14 +40,3 @@ This project showcases a soft and elegant layout to highlight premium products l
 - **Figma** – UI/UX Prototyping and Wireframes  
 
 ---
-
-## 📁 How to Use
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/jewels-ecommerce.git
-
-# 2. Open the folder
-cd jewels-ecommerce
-
-# 3. Open with Live Server (VS Code extension) or host with Netlify/Vercel
