@@ -7,7 +7,7 @@ This project showcases a soft and elegant layout to highlight premium products l
 
 ## 🖼️ Preview
 
- <img width="800" height="600" alt="Jewelry E-Commerce Website" src="https://github.com/user-attachments/assets/7147bbee-6f56-4932-84a5-e1f76c488ce4" />  <!-- Replace with actual preview image link -->
+<img src="https://github.com/user-attachments/assets/7147bbee-6f56-4932-84a5-e1f76c488ce4" alt="Jewelry E-Commerce Website" style="width:100%; max-width:800px; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.1); display:block; margin:auto;" />
 
 ---
 
@@ -21,14 +21,14 @@ This project showcases a soft and elegant layout to highlight premium products l
 
 ## ✨ Features
 
-- 📸 Hero Banner with Featured Product
-- 💎 Clean Product Collections: *Modern*, *Classic*, *Timeless*
-- 🛍️ Trending Products Section
-- 📰 Engaging Blog/Article Section
-- ✉️ Newsletter Subscription Form
-- 📱 Fully Responsive Design (Mobile-First)
-- 🌙 Soft Color Palette with Elegant Typography
-- 🧭 Smooth Navigation with Sticky Header
+- 📸 Hero Banner with Featured Product  
+- 💎 Clean Product Collections: *Modern*, *Classic*, *Timeless*  
+- 🛍️ Trending Products Section  
+- 📰 Engaging Blog/Article Section  
+- ✉️ Newsletter Subscription Form  
+- 📱 Fully Responsive Design (Mobile-First)  
+- 🌙 Soft Color Palette with Elegant Typography  
+- 🧭 Smooth Navigation with Sticky Header  
 
 ---
 
@@ -38,7 +38,7 @@ This project showcases a soft and elegant layout to highlight premium products l
 - **CSS3** – Styling with Custom Components  
 - **JavaScript** – Interactivity & DOM Manipulation  
 - **Bootstrap** – Grid & Layout System  
-- **Figma** – UI/UX Prototyping and Wireframes
+- **Figma** – UI/UX Prototyping and Wireframes  
 
 ---
 
