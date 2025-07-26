@@ -1,43 +1,55 @@
-# 🌐 Syncode X – Web Solutions Portfolio
+# 💍 Elegant Jewelry E-Commerce Website
 
-Welcome to the official portfolio/project repository by **Rushi Dobariya**, Founder of [Syncode X](https://www.instagram.com/syncode_x/).  
-We specialize in crafting responsive, SEO-friendly, and fast-loading websites using modern web technologies like WordPress, Shopify, Webflow, and custom HTML/CSS/JS.
+A modern and minimalistic e-commerce website UI/UX design for a jewelry brand.  
+This project showcases a soft and elegant layout to highlight premium products like **necklaces**, **rings**, and **earrings**, offering a luxurious shopping experience.
 
-## 🔧 Tech Stack
+---
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, jQuery  
-- **CMS:** WordPress (ACF, Elementor), Shopify (Liquid)  
-- **Design Tools:** Figma, Canva, Adobe XD  
-- **Integrations:** HubSpot, Monday.com CRM, Mailchimp
+## 🖼️ Preview
 
-## 🔥 Features
+![Jewelry Website Preview](<img width="800" height="600" alt="Jewelry E-Commerce Website" src="https://github.com/user-attachments/assets/c006ecf1-8b08-4460-94fc-4a37dde81b24" />
+) <!-- Replace with actual preview image link -->
 
-- Responsive & Mobile-Friendly  
-- Custom Themes with Clean Code  
-- SEO Optimized  
-- Fast Loading Speed  
-- Third-party App Integration  
-- Clean UI/UX design  
+---
 
-## 📸 Preview
+## 🔗 Live Demo
 
-![Website Preview](./screenshot.png) <!-- Replace with actual screenshot if available -->
+🌐 [Click here to view the live site](https://jewels-website.netlify.app)
 
-## 🚀 Live Demo
+> Hosted on **Netlify** – Free & Fast Static Hosting
 
-[🌍 Visit Live Website](https://your-netlify-link.netlify.app/)  
-_Or view the demo below:_
+---
 
-📺 **YouTube Video Demo** (optional)  
-🔗 **Client Testimonial / Case Study** (optional)
+## ✨ Features
 
-## 📁 Installation
+- 📸 Hero Banner with Featured Product
+- 💎 Clean Product Collections: *Modern*, *Classic*, *Timeless*
+- 🛍️ Trending Products Section
+- 📰 Engaging Blog/Article Section
+- ✉️ Newsletter Subscription Form
+- 📱 Fully Responsive Design (Mobile-First)
+- 🌙 Soft Color Palette with Elegant Typography
+- 🧭 Smooth Navigation with Sticky Header
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Semantic & Accessible Markup  
+- **CSS3** – Styling with Custom Components  
+- **JavaScript** – Interactivity & DOM Manipulation  
+- **Bootstrap** – Grid & Layout System  
+- **Figma** – UI/UX Prototyping and Wireframes
+
+---
+
+## 📁 How to Use
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+# 1. Clone the repository
+git clone https://github.com/yourusername/jewels-ecommerce.git
 
-# Open the project folder
-cd your-repo-name
+# 2. Open the folder
+cd jewels-ecommerce
 
-# Open with Live Server (VS Code Extension) or host with Netlify/Vercel
+# 3. Open with Live Server (VS Code extension) or host with Netlify/Vercel
