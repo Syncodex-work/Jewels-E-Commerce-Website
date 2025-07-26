@@ -7,8 +7,7 @@ This project showcases a soft and elegant layout to highlight premium products l
 
 ## 🖼️ Preview
 
-![Jewelry Website Preview](<img width="800" height="600" alt="Jewelry E-Commerce Website" src="https://github.com/user-attachments/assets/c006ecf1-8b08-4460-94fc-4a37dde81b24" />
-) <!-- Replace with actual preview image link -->
+ <img width="800" height="600" alt="Jewelry E-Commerce Website" src="https://github.com/user-attachments/assets/7147bbee-6f56-4932-84a5-e1f76c488ce4" />  <!-- Replace with actual preview image link -->
 
 ---
 
