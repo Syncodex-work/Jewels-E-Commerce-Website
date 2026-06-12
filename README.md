@@ -13,7 +13,7 @@ This project showcases a soft and elegant layout to highlight premium products l
 
 ## 🔗 Live Demo
 
-[🌐 Click here to view the live site](https://jewels-website-syncodex.netlify.app/)
+🌐 [Click here to view the live site](https://jewels-website-syncodex.netlify.app/)
 ---
 
 ## ✨ Features
